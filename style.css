@@ -704,3 +704,28 @@ a:focus {
     Thanks for reading. I hope you enjoyed it at least as much as I enjoyed writing it
     for you.
 */
+
+.img-container {
+    width: 100%;
+    text-align: center;
+}
+
+.img-container img {
+    margin-top: 30px;
+}
+
+.step h1 {
+    font-size:150px;margin-top:20%;text-align:center;
+    line-height: 1.1em;
+}
+
+.step h2 {
+    font-size: 80px;
+    line-height: 1.1em;
+    margin-top: 15%;
+    text-align: center;
+}
+
+.step h3 {
+    font-size:60px;margin-top:20%;text-align:center;line-height: 1.1em;
+}
